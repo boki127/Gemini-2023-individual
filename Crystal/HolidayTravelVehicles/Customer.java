@@ -14,6 +14,7 @@ public class Customer {
 	}
 	
 	public int getCustomer_id() {
+		int i =0;
 		return customer_id;
 	}
 	public void setCustomer_id(int customer_id) {
